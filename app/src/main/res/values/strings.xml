@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="txt_login_id_upper">아이디</string>
+    <string name="txt_login_pw_upper">비밀번호</string>
+    <string name="txt_login_str">아이디 로그인</string>
+    <string name="str_btn_login">로그인</string>
+    <string name="chk_login">로그인 상태 유지</string>
+
+    <string name="str_reg_login_id">ID 등록</string>
+    <string name="str_reg_login_pw">PW 재설정</string>
+    <string name="str_find_login_id">ID 찾기</string>
+    <string name="str_find_login_pw">PW 찾기</string>
+    <string name="str_name">이름</string>
+    <string name="str_email">Email</string>
+    <string name="str_save">저장</string>
+    <string name="str_cancel">취소</string>
+
 </resources>
